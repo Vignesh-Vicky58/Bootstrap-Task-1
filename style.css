@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    border: 1px solid #F4C430;
+}
+
+.row {
+    border: 2px solid #F4C430;
+}
+
+.border1 {
+    border-right: 1px solid #F4C430;
+}
